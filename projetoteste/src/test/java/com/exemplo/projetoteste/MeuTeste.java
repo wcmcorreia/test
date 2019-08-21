@@ -5,7 +5,7 @@ import org.junit.Test;
 public class MeuTeste {
 	@Test
 	public void teste(){
-		System.out.println("Olá mundo");	
+		System.out.println("Hello World");	
 	}
 
 }
